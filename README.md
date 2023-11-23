@@ -1,2 +1,2 @@
 Hi Coders, Its your boy GodlessFlanker
-Be ready for big projects
+Mainly using Python in order to improve in Cyber Security
